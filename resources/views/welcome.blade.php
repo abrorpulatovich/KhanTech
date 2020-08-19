@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    KhanTech
+                    KhanTech group
                 </div>
 
                 <div class="links">
